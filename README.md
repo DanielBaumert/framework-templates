@@ -15,3 +15,5 @@ exomia/framework-templates is a visual studio template repository for the [Exomi
 
 Put the .zip template file in the Visual Studio project template directory. 
 By default, this directory is `%USERPROFILE%\Documents\Visual Studio <Version>\ProjectTemplates`.
+
+You can find the latest releases [here](https://github.com/exomia/framework-templates/releases).
