@@ -12,7 +12,7 @@
     </ProjectSubType>
     <SortOrder>1</SortOrder>
     <CreateNewFolder>true</CreateNewFolder>
-    <DefaultName>Exomia.Framework.Template</DefaultName>
+    <DefaultName>MyFirstGame</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
     <LocationField>Enabled</LocationField>
     <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
